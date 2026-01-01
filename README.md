@@ -2,9 +2,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=kimsj0970)
 
 
-<h2 style="text-align: center; margin-bottom: 20px; ">
-  문제 해결 과정을 중시하는 Backend Developer 김승중입니다.
-</h2>
+<div align="center">
+  <h2>
+    문제 해결 과정을 중시하는 Backend Developer 김승중입니다.
+  </h2>
+</div>
 
 
 <hr>
@@ -44,6 +46,6 @@
 
 ## 📊 BaekJoon
 <hr>
-<p style="text-align: center;">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimsj0970" width=40% />
-</p>
+<div align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimsj0970" width="50%" />
+</div>
