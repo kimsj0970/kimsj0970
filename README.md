@@ -4,7 +4,7 @@
 
 <div align="center">
   <h2>
-    ✨ 문제 해결 과정을 중시하는 Backend Developer 김승중입니다.
+    ✨ 문제 해결 과정을 중시하는 Backend Developer 김승중입니다. ✨
   </h2>
 </div>
 
